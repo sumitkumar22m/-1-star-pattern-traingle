@@ -1,8 +1,8 @@
-Subject = #1 star pattern traingle
+1. Subject = #1 star pattern traingle
 
-Language = c
+2. Language = c
 
-output = Hello guys in this code i will show you a star pattern and it is like a triangle which is under below.
+3. output = Hello guys in this code i will show you a star pattern and it is like a triangle which is under below.
 
                          *
                         ***
